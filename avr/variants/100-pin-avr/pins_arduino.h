@@ -949,4 +949,6 @@
 
 #endif // ATmega3250, ATmega3290, ATmega6450, ATmega6490
 
+#include "pins_bosl0v5.h"
+
 #endif // Pins_Arduino_h
